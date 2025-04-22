@@ -13,4 +13,6 @@ func main() {
 	b := 30
 	add(a, b)
 
+	add(10, 20)
+
 }
